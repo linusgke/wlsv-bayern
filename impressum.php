@@ -1,44 +1,9 @@
-﻿<!DOCTYPE html>
-<html lang="de">
-<head>
-    <title>Startseite &#8210; W-LSV Bayern</title>
-    <meta name="viewport" content="initial-scale=1"/>
-    <meta name="description" content="W-LSV Bayern"/>
-    <meta property="og:url" content="https://wlsv-bayern.de/"/>
-    <meta property="og:title" content="Startseite &#8210; W-LSV Bayern"/>
-    <meta property="og:description" content="W-LSV Bayern"/>
-    <meta property="og:image" content="https://devicez.de/assets/img/logo.png"/>
-    <meta property="og:type" content="website"/>
-    <meta property="og:locale" content="de_DE"/>
-
-    <link rel="shortcut icon" type="image/webp" href="assets/img/logo.webp"/>
-    <link rel="stylesheet" href="/assets/css/style.css">
-	
-	<!-- Matomo -->
-<script>
-  var _paq = window._paq = window._paq || [];
-  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="//matomo.elektronisch.dev/";
-    _paq.push(['setTrackerUrl', u+'matomo.php']);
-    _paq.push(['setSiteId', '4']);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
-  })();
-</script>
-<!-- End Matomo Code -->
-
-</head>
-
-<body>
-<h1>Impressum</h1>
+﻿<h1>Impressum</h1>
 
 <p><a href="/">&larr; Zurück</a></p>
 
 <h2>Angaben gem&auml;&szlig; &sect; 5 TMG</h2>
-<p>W-LSV Bayern<br/>
+<p><b>W-LSV Bayern</b><br/>
     Dr.-Schmelzing-Str. 52<br/>
     86169 Augsburg<br/>
 </p>
@@ -85,15 +50,3 @@ Am Fischertor 8<br/>
     ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die
     Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von
     Werbeinformationen, etwa durch Spam-Mails, vor.</p>
-
-<footer>
-    <p>&copy; wlsv-bayern.de - Alle Rechte vorbehalten.<br/>
-        <small>
-            <a href="https://github.com/elektr0nisch/wlsv-bayern" target="_blank">Quellcode auf GitHub</a>&nbsp;&#8210;
-            <a href="/impressum">Impressum</a>
-        </small>
-    </p>
-</footer>
-
-</body>
-</html>
