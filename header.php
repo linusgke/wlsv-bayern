@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-    <title>Startseite &#8210; W-LSV Bayern</title>
+    <title><?= $title ? ($title . " &#8210; ") : "" ?>W-LSV Bayern</title>
     <meta name="viewport" content="initial-scale=1"/>
     <meta name="description" content="Wir sind die Landesschüler*innenvertretung der Waldorfschüler*innen in Bayern."/>
     <meta property="og:url" content="https://wlsv-bayern.de/"/>
-    <meta property="og:title" content="Startseite &#8210; W-LSV Bayern"/>
+    <meta property="og:title" content="<?= $title ? ($title . " &#8210; ") : "" ?>W-LSV Bayern"/>
     <meta property="og:description"
           content="Wir sind die Landesschüler*innenvertretung der Waldorfschüler*innen in Bayern."/>
     <meta property="og:image" content="https://wlsv-bayern.de/assets/img/logo_landscape_white.png"/>
