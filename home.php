@@ -8,7 +8,7 @@
     <b>Wir haben uns erst vor kurzem neugegründet! <a href="/gruendung">(mehr dazu hier...)</a></b>
 </p>
 
-<h2>Bundesweite W-LSV-Tagung</h2>
+<h2>Bundesweite W-LSV Klausurtagung</h2>
 
 <p style="text-align: center">
     <img class="fullscreen" src="assets/img/tagung.png" height="50%" width="50%"
@@ -16,7 +16,7 @@
 </p>
 
 <div style="text-align: center">
-    Wir laden herzlich zur bundesweiten W-LSV-Tagung, 27.5.-29.5.2023 <br/>in die Freie Waldorfschule Augsburg ein.
+    Wir laden herzlich zur bundesweiten W-LSV Klausurtagung, 27.5.-29.5.2023 <br/>in die Freie Waldorfschule Augsburg ein.
     <a href="/tagung">(weitere Informationen...)</a>
 </div>
 

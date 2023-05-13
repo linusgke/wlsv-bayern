@@ -1,10 +1,10 @@
-﻿<h1>Bundesweite W-LSV-Tagung</h1>
+﻿<h1>Bundesweite W-LSV Klausurtagung</h1>
 
 <p><a href="/">&larr; Zurück</a></p>
 
 <p>
     Liebe Schülerinnen und Schüler,
-    wir laden herzlich zu unserer Tagung, 27.5.-29.5.2023 in die Freie Waldorfschule Augsburg
+    wir laden herzlich zur W-LSV Klausurtagung, 27.5.-29.5.2023 in die Freie Waldorfschule Augsburg
     ein. Es kommen Waldorfschüler:innen aus ganz Deutschland, um gemeinsame Inhalte zu
     erarbeiten, selber Neues zu lernen, sich mit anderen Waldis auszutauschen und gemeinsam
     eine schöne Zeit zu verbringen. Gestaltet durch spannende Vorträge, selbstgewählte
