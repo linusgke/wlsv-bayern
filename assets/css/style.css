@@ -118,6 +118,10 @@ a:not([class]):hover {
     padding:.5em 0
 }
 
+.contact img {
+    cursor: pointer;
+}
+
 /* Fullsize image */
 
 .fullscreen {
