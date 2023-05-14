@@ -1,5 +1,5 @@
 ﻿<div style="text-align: center">
-    <img src="assets/img/logo_landscape.webp" alt="Logo"/>
+    <img style="border-radius: 250px" src="assets/img/logo_landscape.webp" width="50%" height="50%" alt="Logo"/>
 </div>
 
 <h1>Herzlich willkommen!</h1>
