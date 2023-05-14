@@ -97,18 +97,25 @@ a:not([class]):hover {
 /* Contact */
 
 .contact {
-    text-align: center;
-    margin-top: 10px;
-    columns: 2;
     list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
 }
 
-.contact img {
+.contact li {
+    display: inline-block;
+    min-width: 9em;
+    max-width: 9em;
+    margin: 0 0.5em;
+}
+
+.contact a {
+    text-decoration: none;
+    background-image: none;
     display: block;
-    margin: 0 auto 10px;
-    width: 20%;
-    height: 20%;
-    cursor: pointer;
+    position: relative;
+    padding:.5em 0
 }
 
 /* Fullsize image */

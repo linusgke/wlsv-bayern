@@ -1,5 +1,5 @@
 ﻿<div style="text-align: center">
-    <img style="border-radius: 250px" src="assets/img/logo_landscape.webp" width="50%" height="50%" alt="Logo"/>
+    <img src="assets/img/logo_landscape.webp" alt="Logo"/>
 </div>
 
 <h1>Herzlich willkommen!</h1>
@@ -11,7 +11,7 @@
 <h2>Bundesweite W-LSV Klausurtagung</h2>
 
 <p style="text-align: center">
-    <img class="fullscreen" src="assets/img/tagung.png" height="50%" width="50%"
+    <img class="fullscreen" src="assets/img/tagung.webp" height="50%" width="50%"
          alt="Informationen zur bundesweiten W-LSV-Tagung">
 </p>
 
@@ -29,7 +29,7 @@
         <a href="https://instagram.com/wlsv_bayern">Instagram</a>
     </li>
     <li>
-        <img src="assets/img/email.png" alt="E-Mail Symbol" onclick="window.location = 'mailto:bayern@waldorf-lsv.de'"/>
+        <img src="assets/img/email.webp" alt="E-Mail Symbol" onclick="window.location = 'mailto:bayern@waldorf-lsv.de'"/>
         <a href="mailto:bayern@waldorf-lsv.de">E-Mail</a>
     </li>
 </ul>
