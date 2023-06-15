@@ -35,32 +35,29 @@ body {
 
 h1 {
     font-family: Baar Zeitgeist, sans-serif;
-    background-color: #b4c5e4;
-    text-align: center;
     font-weight: bold;
     font-size: 2em;
     line-height: 1.2em;
     padding: 0.3em;
-    border-radius: 10px;
 }
 
 h2 {
     font-family: Baar Zeitgeist, sans-serif;
-    background-color: #4ad2ff;
-    color: white;
-    text-align: center;
     font-weight: bold;
     font-size: 1.5em;
     line-height: 1.2em;
     padding: 0.3em;
     margin-top: 1em;
-    border-radius: 10px;
 }
 
 h3 {
     font-family: Baar Zeitgeist, sans-serif;
     margin: 0;
     padding-left: 0.5em;
+}
+
+.center {
+    text-align: center;
 }
 
 footer,
@@ -94,6 +91,22 @@ a:not([class]):hover {
     background-size: 1px 1px;
 }
 
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
 /* Contact */
 
 .contact {
@@ -115,11 +128,44 @@ a:not([class]):hover {
     background-image: none;
     display: block;
     position: relative;
-    padding:.5em 0
+    padding: .5em 0
 }
 
 .contact img {
     cursor: pointer;
+}
+
+/* Navbar */
+
+ul.navbar {
+    list-style-type: none;
+    #margin: 0 0 -30px;
+    padding: 0;
+    overflow: hidden;
+    background: linear-gradient(360deg, #b4c5e4 60%, #FBFFF1 40%);
+    border-radius: 10px;
+}
+
+ul.navbar li {
+    display: inline;
+    float: left;
+}
+
+ul.navbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 0.3em 16px;
+    text-decoration: none;
+}
+
+ul.navbar li img {
+    width: 20%;
+    height: 20%;
+}
+
+li.navbar a:hover {
+    background-color: #4ad2ff;
 }
 
 /* Fullsize image */

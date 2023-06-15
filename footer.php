@@ -1,3 +1,9 @@
+<div id="imageModal" class="modal">
+    <span id="close">&times;</span>
+    <img id="modalImage"/>
+    <div id="caption"></div>
+</div>
+
 <footer>
     <p>&copy; 2023 W-LSV Bayern<br/>
         <small>

@@ -1,6 +1,4 @@
-﻿<h1>Neugründung</h1>
-
-<p><a href="/">&larr; Zurück</a></p>
+﻿<h1>Über uns</h1>
 
 <h2>Wer seid ihr denn bitte?</h2>
 
