@@ -1,4 +1,4 @@
-﻿<h1>Bundesweite W-LSV Klausurtagung</h1>
+<h1>Bundesweite W-LSV Klausurtagung</h1>
 
 <p><a href="/">&larr; Zurück</a></p>
 

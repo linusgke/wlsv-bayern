@@ -1,6 +1,4 @@
-﻿<h1>Impressum</h1>
-
-<p><a href="/">&larr; Zurück</a></p>
+<h1>Impressum</h1>
 
 <h2>Angaben gem&auml;&szlig; &sect; 5 TMG</h2>
 <p><b>W-LSV Bayern</b><br/>
