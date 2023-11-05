@@ -12,7 +12,7 @@
     <meta property="og:type" content="website"/>
     <meta property="og:locale" content="de_DE"/>
 
-    <link rel="shortcut icon" type="image/webp" href="assets/img/logo_square.webp"/>
+    <link rel="shortcut icon" type="image/webp" href="/assets/img/logo_square.webp"/>
     <link rel="stylesheet" href="/assets/css/style.css">
     <link rel="stylesheet" type="text/css" href="assets/css/cookieconsent.min.css">
 
