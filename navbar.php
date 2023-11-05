@@ -1,6 +1,6 @@
 <ul class="navbar">
     <li>
-        <img src="assets/img/logo_landscape.webp" alt="W-LSV Bayern Logo"/>
+        <img src="assets/img/logo_landscape.webp" alt="W-LSV Bayern Logo" onclick="window.location = '/'" style="cursor: pointer"/>
     </li>
     <li>
         <a class="navbar-link" href="/">Startseite</a>

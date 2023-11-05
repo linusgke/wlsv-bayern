@@ -2,6 +2,7 @@
 
 <h2>Angaben gem&auml;&szlig; &sect; 5 TMG</h2>
 <p><b>W-LSV Bayern</b><br/>
+    c/o Freie Waldorfschule Augsburg<br/>
     Dr.-Schmelzing-Str. 52<br/>
     86169 Augsburg<br/>
 </p>
